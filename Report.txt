@@ -1,0 +1,23 @@
+Introduction / Business Problem
+
+In this project, I will analyze how proximity to public transportation affects the success of businesses in a
+major city.  For example, I will see how the ratings and number of likes of business venues depend on their
+distance from the nearest subway station.  This information is crucial for people trying to open new businesses
+in a city, who need to know the best location to set up their business.  Does proximity to public transportation
+help or hurt businesses?  Does the answer depend on the particular type of business, or is it fairly universal?
+And is this correlation strong enough to make access to public transportation an important factor in deciding
+the location of a new business?  By analyzing location data and ratings metrics obtained from Foursquare, I will
+produce actionable intelligence which will be highly valuable to prospective new businesses.
+
+
+Data
+
+For this project, I will require data about various business venues, as well as public transportation data.  
+I have decided to focus on data from the city of Boston, where I lived for many years.  I will also focus on
+metro (subway) data, since this is the primary means of public transportation in Boston.  Using Foursquare, I will
+start by identifying all metro stations in the urban core of Boston.  I will then obtain data from a large sample
+of business venues throughout the city, including both location data and various metrics of popularity, such as
+ratings and number of likes.  Using the venue locations and the metro station locations, I will find the distance
+from each venue to the nearest metro station.  I will then analyze my datasets to see what (if any) correlation
+there is between success of a business and proximity to public transportation.  I will then use this information
+to produce recommendations for people starting new businesses.
